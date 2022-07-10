@@ -1,6 +1,5 @@
 param(
-    # overwrite upstream param
-    [String]$upstream = "<username>/<bucketname>:main"
+    [String]$upstream = "Desdaemon/scoop-repo:main"
 )
 
 if(!$env:SCOOP_HOME) { $env:SCOOP_HOME = Resolve-Path (scoop prefix scoop) }
