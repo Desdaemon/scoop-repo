@@ -1,16 +1,16 @@
 {
-    "version": "1.54.1",
+    "version": "1.56.0",
     "description": "High-level memory-safe bindgen for Dart/Flutter <-> Rust",
     "homepage": "https://fzyzcjy.github.io/flutter_rust_bridge/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fzyzcjy/flutter_rust_bridge/releases/download/v1.54.1/flutter_rust_bridge_codegen-x86_64-pc-windows-msvc-v1.54.1.zip",
-            "hash": "522babfaa5b7f2f72d7a951c35ff4dd4180cbe54df0ffeb2764aa28c2e92c502"
+            "url": "https://github.com/fzyzcjy/flutter_rust_bridge/releases/download/v1.56.0/flutter_rust_bridge_codegen-x86_64-pc-windows-msvc-v1.56.0.zip",
+            "hash": "4a37af8300ff6d2937b6cccefe87291eae16d26265b00e120209f144546b7cdc"
         },
         "32bit": {
-            "url": "https://github.com/fzyzcjy/flutter_rust_bridge/releases/download/v1.54.1/flutter_rust_bridge_codegen-i686-pc-windows-msvc-v1.54.1.zip",
-            "hash": "72d790f3bd44a3e8ac50a10361b23723dcc6934550756a4b120dde6e18a1f9e9"
+            "url": "https://github.com/fzyzcjy/flutter_rust_bridge/releases/download/v1.56.0/flutter_rust_bridge_codegen-i686-pc-windows-msvc-v1.56.0.zip",
+            "hash": "d574aae5cbcd5d852d8e53b20deafb6112e0c1e3f18e6186da78bb274302ddf0"
         }
     },
     "bin": "flutter_rust_bridge_codegen.exe",
